@@ -2,8 +2,18 @@
   
 # Abdallah Adel
 
+**Backend Developer** • Computer Science Student • AI & IoT
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer;Computer+Science+Student;AI+%26+IoT+Enthusiast;Building+Scalable+Systems)](https://git.io/typing-svg)
 
+<p>
+  <a href="https://www.linkedin.com/in/abdallah-adel-92901722a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Abdallahadel2004">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 </div>
 
@@ -11,22 +21,27 @@
 
 ### 💻 About Me
 
-```
-python
+- **Backend Developer** focused on building secure, scalable APIs and services.
+- **Tech**: Laravel, FastAPI, MySQL, REST APIs.
+- **Interests**: AI, IoT, and System Design.
+- **Open to**: internships, collaborations, and freelance opportunities.
+
+<details>
+<summary><b>Quick intro (code)</b></summary>
+
+```python
 class AbdallahAdel:
     def __init__(self):
         self.role = "Backend Developer"
         self.education = "Computer Science Student"
         self.interests = ["AI", "IoT", "System Design"]
         self.current_focus = "Building scalable backend systems"
-        
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's connect and build something amazing.")
 
-me = AbdallahAdel()
-me.say_hi()
-
+print("Thanks for visiting my profile — let's connect!")
 ```
+
+</details>
+
 ---
 
 ### 🛠️ Tech Stack
@@ -101,67 +116,21 @@ me.say_hi()
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Abdallahadel2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Abdallahadel2004&show_icons=true&theme=default&hide_border=true&count_private=true" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Abdallahadel2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&count_private=true" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallahadel2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallahadel2004&layout=compact&theme=default&hide_border=true&langs_count=8" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallahadel2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&langs_count=8" alt="Top Languages" />
-  </picture>
-</div>
+<details>
+<summary><b>📈 Detailed GitHub cards (third‑party, may be temporarily unavailable)</b></summary>
 
-<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdallahadel2004&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallahadel2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Abdallahadel2004&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Abdallahadel2004&theme=default&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=Abdallahadel2004&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
-  </picture>
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=Abdallahadel2004&theme=tokyonight&hide_border=true)
 
----
+![Trophies](https://github-profile-trophy.vercel.app/?username=Abdallahadel2004&theme=tokyonight&no-frame=true&no-bg=true&column=6)
 
-### 🏆 GitHub Trophies
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdallahadel2004&theme=tokyo-night&hide_border=true)
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Abdallahadel2004&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Abdallahadel2004&theme=flat&no-frame=true&column=7&margin-w=5" />
-    <img src="https://github-profile-trophy.vercel.app/?username=Abdallahadel2004&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" alt="GitHub Trophies" />
-  </picture>
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Abdallahadel2004&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Abdallahadel2004&theme=minimal&hide_border=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdallahadel2004&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" alt="Contribution Graph" />
-  </picture>
-</div>
-
----
-
-### 🤝 Let's Connect
-
-<div align="center">
-  <a href="https://github.com/Abdallahadel2004">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/abdallah-adel-92901722a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
+</details>
 
 ---
 
