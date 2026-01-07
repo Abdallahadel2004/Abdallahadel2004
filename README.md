@@ -26,21 +26,7 @@
 - **Interests**: AI, IoT, and System Design.
 - **Open to**: internships, collaborations, and freelance opportunities.
 
-<details>
-<summary><b>Quick intro (code)</b></summary>
 
-```python
-class AbdallahAdel:
-    def __init__(self):
-        self.role = "Backend Developer"
-        self.education = "Computer Science Student"
-        self.interests = ["AI", "IoT", "System Design"]
-        self.current_focus = "Building scalable backend systems"
-
-print("Thanks for visiting my profile — let's connect!")
-```
-
-</details>
 
 ---
 
@@ -119,7 +105,7 @@ print("Thanks for visiting my profile — let's connect!")
 ### 📊 GitHub
 
 <details>
-<summary><b>📈 Detailed GitHub cards (third‑party, may be temporarily unavailable)</b></summary>
+<summary><b>📈 Detailed GitHub card</b></summary>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdallahadel2004&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallahadel2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
