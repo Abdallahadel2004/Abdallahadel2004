@@ -107,8 +107,6 @@
 <details>
 <summary><b>📈 Detailed GitHub card</b></summary>
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdallahadel2004)](https://github.com/anuraghazra/github-readme-stats) 
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdallahadel2004&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallahadel2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
