@@ -15,7 +15,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### 💻 About Me
 
 ```python
 class AbdallahAdel:
@@ -109,12 +109,26 @@ me.say_hi()
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdallahadel2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallahadel2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" height="165" alt="Top Languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Abdallahadel2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Abdallahadel2004&show_icons=true&theme=default&hide_border=true&count_private=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Abdallahadel2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&count_private=true" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallahadel2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallahadel2004&layout=compact&theme=default&hide_border=true&langs_count=8" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallahadel2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&langs_count=8" alt="Top Languages" />
+  </picture>
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdallahadel2004&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Abdallahadel2004&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Abdallahadel2004&theme=default&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=Abdallahadel2004&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
+  </picture>
 </div>
 
 ---
@@ -122,7 +136,11 @@ me.say_hi()
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdallahadel2004&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" alt="GitHub Trophies"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Abdallahadel2004&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Abdallahadel2004&theme=flat&no-frame=true&column=7&margin-w=5" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Abdallahadel2004&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" alt="GitHub Trophies" />
+  </picture>
 </div>
 
 ---
@@ -130,7 +148,11 @@ me.say_hi()
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdallahadel2004&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" alt="Contribution Graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Abdallahadel2004&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Abdallahadel2004&theme=minimal&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdallahadel2004&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" alt="Contribution Graph" />
+  </picture>
 </div>
 
 ---
