@@ -4,12 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer;Computer+Science+Student;AI+%26+IoT+Enthusiast;Building+Scalable+Systems)](https://git.io/typing-svg)
 
-<p>
-  <a href="https://github.com/Abdallahadel2004">
-    <img src="https://img.shields.io/github/followers/Abdallahadel2004?label=Followers&style=social" alt="GitHub Followers">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Abdallahadel2004&color=3B82F6&style=flat-square&label=Profile+Views" alt="Profile Views">
-</p>
 
 </div>
 
@@ -31,8 +25,8 @@ class AbdallahAdel:
 
 me = AbdallahAdel()
 me.say_hi()
-```
 
+```
 ---
 
 ### 🛠️ Tech Stack
