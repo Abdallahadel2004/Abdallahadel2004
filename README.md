@@ -17,7 +17,8 @@
 
 ### 💻 About Me
 
-```python
+```
+python
 class AbdallahAdel:
     def __init__(self):
         self.role = "Backend Developer"
