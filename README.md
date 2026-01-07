@@ -23,7 +23,7 @@
 
 - **Backend Developer** focused on building secure, scalable APIs and services.
 - **Tech**: Laravel, FastAPI, MySQL, REST APIs.
-- **Interests**: AI, IoT, and System Design.
+- **Interests**: AI and System Design.
 - **Open to**: internships, collaborations, and freelance opportunities.
 
 
