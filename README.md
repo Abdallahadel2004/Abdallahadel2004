@@ -42,18 +42,10 @@
 ### Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-![Abdallah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdallahadel2004&show_icons=true&theme=default)
-
----
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Abdallahadel2004)
 
 ---
 
 ## 📫 Contact
 - GitHub: https://github.com/Abdallahadel2004
+- Linked in: https://www.linkedin.com/in/abdallah-adel-92901722a/
 
