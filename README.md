@@ -19,7 +19,7 @@
 ### 💻 About Me
 
 - **Backend & Full-Stack Developer** focused on building secure, scalable APIs, web services, and user interfaces.
-- **Tech**: Node.js, React, Angular, Laravel, FastAPI, MySQL.
+- **Tech**: Node.js, React, Angular, Laravel, FastAPI, MySQL, MongoDB, Firebase, Supabase, SQLite.
 - **Interests**: AI, Modern Web Architectures, and System Design.
 - **Open to**: internships, collaborations, and freelance opportunities.
 
@@ -69,6 +69,10 @@
 <br>
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
 </p>
 </details>
 
