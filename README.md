@@ -2,9 +2,9 @@
   
 # Abdallah Adel
 
-**Backend Developer** 
+**Backend & Full-Stack Developer** 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer;Computer+Science+Student;AI+%26+IoT+Enthusiast;Building+Scalable+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer;Full-Stack+Enthusiast;Computer+Science+Student;Building+Scalable+Systems)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/abdallah-adel-92901722a/">
@@ -18,9 +18,9 @@
 
 ### 💻 About Me
 
-- **Backend Developer** focused on building secure, scalable APIs and services.
-- **Tech**: Laravel, FastAPI, MySQL, REST APIs.
-- **Interests**: AI and System Design.
+- **Backend & Full-Stack Developer** focused on building secure, scalable APIs, web services, and user interfaces.
+- **Tech**: Node.js, React, Angular, Laravel, FastAPI, MySQL.
+- **Interests**: AI, Modern Web Architectures, and System Design.
 - **Open to**: internships, collaborations, and freelance opportunities.
 
 
@@ -33,10 +33,11 @@
 <summary><b>💻 Languages</b></summary>
 <br>
 <p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
 </p>
 </details>
 
@@ -44,6 +45,8 @@
 <summary><b>🌐 Frontend</b></summary>
 <br>
 <p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
@@ -54,6 +57,8 @@
 <summary><b>⚙️ Backend & Frameworks</b></summary>
 <br>
 <p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 </p>
@@ -76,15 +81,6 @@
 </p>
 </details>
 
-<details open>
-<summary><b>📡 IoT & Embedded Systems</b></summary>
-<br>
-<p>
-  <img src="https://img.shields.io/badge/IoT-0A66FF?style=for-the-badge&logo=internetofthings&logoColor=white" alt="IoT"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/Sensors-6E6E6E?style=for-the-badge&logo=circuitverse&logoColor=white" alt="Sensors"/>
-</p>
-</details>
 
 <details open>
 <summary><b>🔧 Tools & Platforms</b></summary>
@@ -102,16 +98,21 @@
 ### 📊 GitHub
 
 <details>
-<summary><b>📈 Detailed GitHub card</b></summary>
+<summary><b>📈 Detailed GitHub Stats</b></summary>
+<br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdallahadel2004&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallahadel2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Abdallahadel2004&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Abdallahadel2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Abdallahadel2004&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Abdallahadel2004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Abdallahadel2004&theme=tokyonight&no-frame=true&no-bg=true&column=6)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdallahadel2004&theme=tokyo-night&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdallahadel2004&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
 
 </details>
 
