@@ -18,23 +18,14 @@
 
 ## 💻 About Me
 
-<table width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <p>I am a passionate <b>Backend & Full-Stack Developer</b> and Computer Science student focused on building secure, scalable, and highly performant web applications, APIs, and services.</p>
-      <ul>
-        <li>💼 Open to: <b>Internships</b>, <b>Collaborations</b>, and <b>Freelance Opportunities</b></li>
-        <li>🧠 Currently focusing on: <b>Modern Web Architectures</b>, <b>System Design</b>, and <b>AI Integration</b></li>
-        <li>⚙️ Strong background in building robust backend services using <b>Node.js</b>, <b>Laravel</b>, and <b>FastAPI</b></li>
-        <li>🎨 Building responsive and dynamic user interfaces using <b>React</b> and <b>Angular</b></li>
-      </ul>
-      <p><b>Core Tech Stack:</b> Node.js, React, Angular, Laravel, FastAPI, MySQL, MongoDB, Firebase, Supabase, SQLite, TypeScript.</p>
-    </td>
-    <td width="45%" valign="top" align="center">
-      <img src="https://github-stats-extended.vercel.app/api?username=Abdallahadel2004&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="100%" />
-    </td>
-  </tr>
-</table>
+> I am a passionate **Backend & Full-Stack Developer** and Computer Science student. I specialize in building secure, scalable, and highly performant web applications, APIs, and services. I love designing clean architectures, optimizing database queries, and solving complex algorithmic challenges.
+
+- 💼 **Open to**: Internships, collaborations, and freelance opportunities.
+- 🧠 **Currently learning**: Advanced System Design, Microservices, and AI integration.
+- ⚙️ **Backend focus**: Node.js/Express, Laravel, FastAPI, and database design.
+- 🎨 **Frontend focus**: React, Angular, TypeScript, and modern responsive UI/UX.
+- 📫 **How to reach me**: Connect with me on [LinkedIn](https://www.linkedin.com/in/abdallah-adel-92901722a/)!
+- ⚡ **Fun fact**: I love optimizing slow database queries and exploring new tech stacks.
 
 ---
 
@@ -90,7 +81,11 @@
 ## 📊 Detailed GitHub Statistics
 
 <p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Abdallahadel2004&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Abdallahadel2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=Abdallahadel2004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
